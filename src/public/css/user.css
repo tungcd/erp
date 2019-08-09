@@ -1,0 +1,41 @@
+.users-page-component {
+    margin-top: 70px;
+}
+
+.btn-action-page {
+    float: left;
+}
+
+.float {
+    padding-top: 8px;
+    float: left;
+}
+
+.fixed {
+    width: 80%;
+    margin-left: 10px;
+}
+
+.label-input {
+    padding-top: 10px;
+}
+
+.checkbox {
+    margin-top: 10px;
+    padding-top: 20px;
+}
+
+.thead {
+    width: auto;
+    text-align: center;
+}
+
+.table-user {
+    /* width: 1500px; */
+    text-align: center;
+    font-weight: 1px;
+}
+
+/* .thead-email{
+    width: 250px;
+} */

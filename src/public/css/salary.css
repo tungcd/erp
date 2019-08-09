@@ -1,0 +1,54 @@
+.salary-general-item {
+    text-align: left;
+}
+
+.salary-general-item li {
+    margin-left: -35px;
+}
+
+.salary-manager-table {
+    width: 4550px;
+}
+
+.salary-manager-table th {
+    text-align: center;
+}
+
+.salary-general-table th {
+    text-align: center;
+}
+
+.m20 {
+    margin: 50px 0;
+}
+
+.check-in {
+    width: 120px;
+}
+
+.check-out {
+    width: 120px;
+}
+
+.check-box {
+    width: 15px;
+    float: left;
+}
+
+.label-check-box {
+    margin-top: 12px;
+    width: 100px;
+    float: left;
+}
+
+.label-check-out {
+    margin-top: 10px;
+}
+
+.fas {
+    padding-top: 15px;
+}
+
+.select-facility {
+    width: 200px;
+}
